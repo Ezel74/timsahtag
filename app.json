@@ -1,1 +1,44 @@
 
+{
+
+  "name": "Şakirvipall_bot",
+
+  "logo":"https://telegra.ph/file/dfa517fd00b6ca5f7ac9.jpg",
+
+  "description": "User tagger bot sıze ucretsiz uyelerinizi etıketleyen bı bottur.",
+
+  "ortam": {
+
+    "JETON": {
+
+      "description": "bot token girin.",
+
+      "değer": ""
+
+    },
+
+    "APP_ID": {
+
+      "description": "@otomytelegrambot dan api hash api id alınız.",
+
+      "değer": ""
+
+    },
+
+    "API_HASH": {
+
+      "description": "@otomytelegrambot dan api hash api id alınız.",
+
+      "değer": ""
+
+    }
+
+  },
+
+  "derleme paketleri": [{
+
+    "url": "https://github.com/heroku/heroku-buildpack-python.git"
+
+  }]
+
+}
